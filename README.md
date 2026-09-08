@@ -2,7 +2,7 @@
 
 A web-based platform for Kenyan rental property management. It centralises property listings, tenant applications and lease records in one place, replacing the spreadsheets, WhatsApp threads and paper files that small-scale landlords and property managers typically rely on.
 
-Final year project — BSc Informatics and Computer Science, Strathmore University.
+
 
 ## Features
 
