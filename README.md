@@ -108,5 +108,6 @@ Supervisor: Allan Vikiru, School of Computing and Engineering Science, Strathmor
 
 **Property listings**
 
-<img width="1031" height="737" alt="image" src="https://github.com/user-attachments/assets/1fc6c692-ebec-4d51-9404-152fc5101065" />
+<img width="1280" height="895" alt="WhatsApp Image 2026-09-08 at 8 06 08 PM" src="https://github.com/user-attachments/assets/97a69ea6-946d-4362-9c3a-0cfc2f2b94db" />
+
 
